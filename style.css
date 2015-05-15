@@ -1,3 +1,10 @@
 h1{
 	color: Purple;
+	font-family: arial, sans-serif; 
+	padding-left: 100px;
+	border-width: 2px;
+	border-style:dashed;
+}
+body {
+background-color: #9CEF9F9;
 }
