@@ -2,9 +2,10 @@ h1{
 	color: Navy blue;
 	font-family: Yanone Kaffeesatz, Titillium Web; 
 	padding-left: 100px;
-	border-width: 2px;
-	border-style:dashed;
+	border-width: 5px;
+	border-style:outset;
+	border-color:#A082FE
 }
 body {
-background-color: #9CEF9F9;
+background-color: #AFAFFF;
 }
