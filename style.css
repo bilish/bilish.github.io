@@ -13,7 +13,7 @@ background-color: #9882A8;
 li {
     display: inline;
 }
-li {
+nav li{
     float: left;
 }
 
@@ -34,4 +34,17 @@ nav ul {
   margin: 0;
   border-bottom: 1px #BCD0DC
   border-top: 1 px #BCD0DC
+  float:left;
+  
 }
+av li a {
+      display: block;
+      padding: 8px 15px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #069;
+      border-right: 1px solid #ccc; }
+ nav li a:hover {
+      color: #c00;
+      background-color: #fff; }
+
