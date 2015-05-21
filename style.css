@@ -37,8 +37,9 @@ nav ul {
   border-top: 1 px #BCD0DC;
   float:left;
   width:100%;
-  
-  
+}
+.span-7 {
+    width: 150px !important;
 }
 nav li a {
       display: block;
