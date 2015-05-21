@@ -13,10 +13,8 @@ background-color: #9882A8;
 li {
     display: inline;
 }
-nav ul li {
-floar:left;
-margin-right:0;
-list-style:none;}
+nav ul {
+margin:0;}
 a {
     display: block;
     width: 60px;
