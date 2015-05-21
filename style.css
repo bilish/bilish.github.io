@@ -13,7 +13,10 @@ background-color: #9882A8;
 li {
     display: inline;
 }
-
+nav ul li {
+floar:left;
+margin-right:0;
+list-style:none;}
 a {
     display: block;
     width: 60px;
@@ -39,7 +42,7 @@ nav ul {
   
   
 }
-nav ul li a {
+nav li a {
       display: block;
 	  background-color:#320138;
       padding: 3px 8px;
