@@ -42,9 +42,9 @@ nav ul li.current a {
 ul li{font-family:'Josefin Sans', sans-serif;
 }
 
-div.scroll {
-    background-color:8B59A4;
-    width: 100px;
-    height: 100px;
-    overflow: scroll;
-}
+::-webkit-scrollbar-thumb:vertical {
+    background:#f05d5d;}
+    ::-webkit-scrollbar-thumb:horizontal {
+    background:#f05d5d;height:10px;}
+    ::-webkit-scrollbar {
+    background:#ffffff;height:10px;width:6px;}
