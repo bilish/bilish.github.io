@@ -39,8 +39,12 @@ nav ul li.current a {
     background:#2B0F4A;
 }
 
-html {
-scrollbar-base-color:#764B8E;
-scrollbar-arrow-color: white;
-scrollbar-track-color: #D5AAED;
+ul li{'Josefin Sans', sans-serif;
+}
+
+div.scroll {
+    background-color:8B59A4;
+    width: 100px;
+    height: 100px;
+    overflow: scroll;
 }
