@@ -39,3 +39,8 @@ nav ul li.current a {
     background:#2B0F4A;
 }
 
+html {
+scrollbar-base-color:#764B8E;
+scrollbar-arrow-color: white;
+scrollbar-track-color: #D5AAED;
+}
