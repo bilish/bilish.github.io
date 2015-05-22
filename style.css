@@ -39,7 +39,7 @@ nav ul li.current a {
     background:#2B0F4A;
 }
 
-ul li{'Josefin Sans', sans-serif;
+ul li{font-family:'Josefin Sans', sans-serif;
 }
 
 div.scroll {
