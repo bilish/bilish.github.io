@@ -12,6 +12,8 @@ font-family:'Josefin Sans', sans-serif;
 body {
 background-color: #F6EDFF;
 }
+ h3{font-family: 'Quicksand', sans-serif;
+ }
 
 nav ul {
     margin:0;
