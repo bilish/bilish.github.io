@@ -16,6 +16,7 @@ background-color: #F6EDFF;
 
 body{
    text-align:center; 
+  
 }
  
 #wrapper{
@@ -23,7 +24,9 @@ body{
    margin:0 auto;
    text-align:left;
 }
-	
+ul { width:700px;
+	margin:0 auto;
+	text-align:left;}
 
  h3{font-family: 'Quicksand', sans-serif;
  }
