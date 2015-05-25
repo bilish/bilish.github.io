@@ -11,6 +11,12 @@ font-family:'Josefin Sans', sans-serif;
 }
 body {
 background-color: #F6EDFF;
+.center {
+	margin-left:auto;
+	marign-right:auto;
+	width: 70%; 
+	}
+	
 }
  h3{font-family: 'Quicksand', sans-serif;
  }
@@ -49,10 +55,5 @@ ul li{font-family:'Josefin Sans', sans-serif;
     ::-webkit-scrollbar {
     background:#ffffff;height:10px;width:6px;}
 	
-	html.center {
-	margin-left:auto;
-	marign-right:auto;
-	width: 70%; 
-	}
-	
+
 
