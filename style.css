@@ -11,12 +11,11 @@ font-family:'Josefin Sans', sans-serif;
 }
 body {
 background-color: #F6EDFF;
-margin:0;
-padding:0;
+
 }
 .center {
 	margin-left:auto;
-	marign-right:auto;
+	margin-right:auto;
 	width: 70%; 
 	}
 	
