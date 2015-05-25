@@ -48,3 +48,11 @@ ul li{font-family:'Josefin Sans', sans-serif;
     background:#B39BCD;height:10px;}
     ::-webkit-scrollbar {
     background:#ffffff;height:10px;width:6px;}
+	
+	.center {
+	margin-left:auto;
+	marign-right:auto;
+	width: 70%; 
+	}
+	
+
