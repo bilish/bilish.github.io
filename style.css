@@ -49,7 +49,7 @@ ul li{font-family:'Josefin Sans', sans-serif;
     ::-webkit-scrollbar {
     background:#ffffff;height:10px;width:6px;}
 	
-	.center {
+	html.center {
 	margin-left:auto;
 	marign-right:auto;
 	width: 70%; 
