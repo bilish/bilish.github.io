@@ -13,16 +13,13 @@ body {
 background-color: #F6EDFF;
 
 }
-*{ margin:0;
-   padding:0;
-}
- 
+
 body{
    text-align:center; 
 }
  
 #wrapper{
-   width:960px;
+   width:700px;
    margin:0 auto;
    text-align:left;
 }
