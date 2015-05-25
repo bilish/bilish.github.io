@@ -43,8 +43,8 @@ ul li{font-family:'Josefin Sans', sans-serif;
 }
 
 ::-webkit-scrollbar-thumb:vertical {
-    background:##B39BCD;}
+    background:#B39BCD;}
     ::-webkit-scrollbar-thumb:horizontal {
-    background:##B39BCD;height:10px;}
+    background:#B39BCD;height:10px;}
     ::-webkit-scrollbar {
     background:#ffffff;height:10px;width:6px;}
